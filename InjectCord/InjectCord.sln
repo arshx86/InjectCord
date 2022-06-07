@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjectCord", "InjectCord.csproj", "{570CE11B-D197-4EEC-9C75-C90F89CB80E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjectCord.Tests", "..\InjectCord.Tests\InjectCord.Tests.csproj", "{6F0F2498-5868-481E-BBF8-8EAC8508BA56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{570CE11B-D197-4EEC-9C75-C90F89CB80E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570CE11B-D197-4EEC-9C75-C90F89CB80E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570CE11B-D197-4EEC-9C75-C90F89CB80E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570CE11B-D197-4EEC-9C75-C90F89CB80E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F0F2498-5868-481E-BBF8-8EAC8508BA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0F2498-5868-481E-BBF8-8EAC8508BA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0F2498-5868-481E-BBF8-8EAC8508BA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0F2498-5868-481E-BBF8-8EAC8508BA56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {845416B3-F658-4CF0-833A-1B20A062079A}
+	EndGlobalSection
+EndGlobal
